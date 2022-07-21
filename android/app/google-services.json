@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127772250391",
+    "project_id": "baca-935d2",
+    "storage_bucket": "baca-935d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127772250391:android:97271488dbb16e1aee6752",
+        "android_client_info": {
+          "package_name": "com.example.bac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127772250391-lkf8jnaaq8780ek3l9ec3tlappqrploe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ttYK2cfDYVN_-VHVV8_Fm4Emg5vStAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127772250391-lkf8jnaaq8780ek3l9ec3tlappqrploe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
